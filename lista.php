@@ -10,5 +10,5 @@ foreach ($chistes as $nombre => $chiste) {
   echo "<dt><strong>$nombre</strong></dt><dd>$chiste</dd>";
 }
 echo "</dl>";
-echo '<br><a href="index.php">Volver al formulario</a>';
+echo '<br><a href="https://intelc0de.infinityfreeapp.com/">Volver al formulario</a>';
 ?>

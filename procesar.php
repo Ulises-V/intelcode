@@ -14,5 +14,5 @@ if ($nombre && isset($chistes[$nombre])) {
 } else {
   echo "<p>No se encontró el integrante o el chiste.</p>";
 }
-echo '<br><a href="index.php">Volver</a>';
+echo '<br><a href="https://intelc0de.infinityfreeapp.com/">Volver</a>';
 ?>
